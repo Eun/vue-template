@@ -1,13 +1,13 @@
 # vue-template
 
-Install everything:
+**Install everything**
 
-   npm install
+    npm install
 
+**Run development server**
 
-Run development server:
-   npm run dev
+    npm run dev
 
+**Build release**
 
-Build release:
-   npm run build
+    npm run build
